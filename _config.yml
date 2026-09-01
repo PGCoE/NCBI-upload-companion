@@ -1,0 +1,32 @@
+title: PGCoE NCBI Upload Companion
+description: Supplemental NCBI documentation for public health scientists.
+theme: just-the-docs
+color_scheme: pgcoe
+
+url: https://pgcoe.github.io/NCBI-upload-companion
+
+logo: "/docs/media/pgcoe-network-graphic-element.png"
+favicon_ico: "/docs/media/pgcoe-network-graphic-element.png"
+
+
+aux_links:
+  PGCoE Main Site: https://pgcoe.github.io/
+
+heading_anchors: true
+
+callouts:
+  note:
+    title: Note
+    color: blue
+  tip:
+    title: Tip
+    color: green
+  important:
+    title: Important
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  example:
+    title: Example
+    color: yellow
